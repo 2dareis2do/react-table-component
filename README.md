@@ -20,7 +20,7 @@ I have set up this demo to use webpack. Webpack is used to transpile all the req
 
 This component should be available localhost on port 8080 i.e. http://localhost:8080
 
-    $ node_modules/.bin/http-server src/static
+    $ node_modules/.bin/http-server static
 
 # Running on your Web Server
 
