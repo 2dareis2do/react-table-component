@@ -3,8 +3,7 @@
 
 ## About
 
-This is a React Table Component that I have put together using javascript and ES6 based React to create
-this component.
+This is a React Table Component that I have put together using javascript and ES6 based React.
 
 
 ## Installation
