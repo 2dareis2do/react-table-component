@@ -21,7 +21,7 @@ app.get('*',(req, res) => {
 
     let markup;
 
-    let tagline = "Five day Forecast - London";
+    let tagline = "Star Wars Characters";
 
     markup = renderToString(<App/>);
 
