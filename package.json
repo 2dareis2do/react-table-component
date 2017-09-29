@@ -1,7 +1,7 @@
 {
-  "name": "Weather",
+  "name": "React Table Component",
   "version": "1.0.0",
-  "description": "react test",
+  "description": "react table component that usews the swapi",
   "main": "src/app-client.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

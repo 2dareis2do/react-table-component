@@ -1,10 +1,11 @@
-# 5 day weather forecast
+# React Table Component
+
 
 ## About
 
-This is a 5 day weather forecaster that I have put together using javascript.
+This is a React Table Component that I have put together using javascript and ES6 based React to create
+this app.
 
-I have used React to create this app.
 
 ## Installation
 
@@ -42,5 +43,5 @@ If this runs ok, you should be able to view at localhost:8123. Please feel free 
 ## Feedback
 
 To leave feedback, open an issue in the
-[Issues section](https://github.com/2dareis2do/five-day-forecast/issues).
-[Live Demo](http://dev.danlobo.co.uk/node).
+[Issues section](https://github.com/2dareis2do//react-table-component/issues).
+
