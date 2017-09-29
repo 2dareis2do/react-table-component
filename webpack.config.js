@@ -4,11 +4,7 @@ const path = require('path');
 module.exports = {
   entry: [path.join(__dirname, 'src', 'app-client.js')],
   resolve: {
-    extensions: ['', '.js', '.jsx', '.scss'],
-    alias: {
-        //'es6-promise': path.join(folders.NPM, 'es6-promise', 'es6-promise.js'),
-        //'fetch': path.join(folders.NPM, 'whatwg-fetch', 'fetch.js'),
-    }
+    extensions: ['', '.js', '.jsx']
 },
   output: {
     path: path.join(__dirname, 'src', 'static', 'js'),
@@ -27,10 +23,6 @@ module.exports = {
   plugins: [
     new webpack.DefinePlugin({
       'process.env.NODE_ENV': JSON.stringify(process.env.NODE_ENV)
-    }),
-    new webpack.ProvidePlugin({
-          // Promise: 'imports?this=>global!exports?global.Promise!es6-promise'
-          // fetch: 'imports?this=>global!exports?global.fetch!whatwg-fetch'
     }),
     new webpack.optimize.DedupePlugin(),
     new webpack.optimize.OccurenceOrderPlugin(),
