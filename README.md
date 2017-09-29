@@ -22,7 +22,9 @@ This component should be available localhost on port 8080 i.e. http://localhost:
 
     $ node_modules/.bin/http-server src/static
 
-However as requested this has been set up to run serverside as well. To run in serverside mode
+# Running on your Web Server
+
+This has been set up to run serverside as well. To run in serverside mode
 
     $ NODE_ENV=production node_modules/.bin/babel-node --presets 'react,es2015' src/server.js
 
