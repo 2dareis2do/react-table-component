@@ -4,12 +4,12 @@
 ## About
 
 This is a React Table Component that I have put together using javascript and ES6 based React to create
-this app.
+this component.
 
 
 ## Installation
 
-This app has been devleoped with node js and utilises various npm modules. Just be sure to have [Node](http://nodejs.org/) installed first. Then simply clone the repo as usual and then use:
+This component has been developed with node js and utilises various npm modules. Just be sure to have [Node](http://nodejs.org/) installed first. Then simply clone the repo as usual and then use:
 
     $ npm install
 
@@ -19,7 +19,7 @@ I have set up this demo to use webpack. Webpack is used to transpile all the req
 
     $ NODE_ENV=production node_modules/.bin/webpack -p
 
-This app should be available localhost on port 8080 i.e. http://localhost:8080
+This component should be available localhost on port 8080 i.e. http://localhost:8080
 
     $ node_modules/.bin/http-server src/static
 
