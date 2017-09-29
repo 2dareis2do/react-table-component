@@ -46,3 +46,5 @@ If this runs ok, you should be able to view at localhost:8123. Please feel free 
 To leave feedback, open an issue in the
 [Issues section](https://github.com/2dareis2do//react-table-component/issues).
 
+[Demo](http://dev.danlobo.co.uk/devproto/react-table-component/static/) available here.
+
