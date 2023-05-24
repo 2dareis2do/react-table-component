@@ -1,5 +1,5 @@
 {
-  "name": "React Table Component",
+  "name": "react-table-component",
   "version": "1.0.0",
   "description": "react table component that uses the swapi",
   "main": "src/app-client.js",
