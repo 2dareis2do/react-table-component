@@ -1,9 +1,10 @@
-# React Table Component
+# Star Wars People
 
+Star Wars People - utilises https://pipedream.com/apps/swapi
 
 ## About
 
-This is a React Table Component that I have put together using javascript and ES6 based React.
+This utilises the React Table Component that I have put together using javascript and ES6 based React.
 
 
 ## Installation
